@@ -1,0 +1,6 @@
+converted_12/
+converted_18/
+generated_templates12/
+generated_templates18/
+.*
+!.gitignore
